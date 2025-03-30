@@ -15,7 +15,7 @@
 
   </td>
   <td>
-    <img src="https://cdn.dribbble.com/users/25514/screenshots/17316169/media/399a09c693e26c2bda165b99eb2f8f40.png" alt="Data Analytics" width="300">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/Image.png" alt="Data Analytics" width="300">
   </td>
 </tr>
 </table>
