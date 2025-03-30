@@ -7,42 +7,19 @@
 <p><b>🧑‍💻 About Me:</b></p>
 <p>I'm currently pursuing my Master’s in Data Analytics Engineering at Northeastern University in Boston, MA. 🗺️</p>
 
-<p>I'm passionate about leveraging data science, machine learning, and analytics to solve real-world problems—especially in domains like finance, healthcare, technology, and automotive analytics. 🚀</p>
+<p>I'm passionate about leveraging data science, machine learning, and analytics to solve real-world problems—especially in domains like technology and automotive analytics. 🚀</p>
 
 <p>I thrive on turning complex datasets into strategic insights, and I'm always keen to collaborate on innovative projects or interesting research.</p>
 
-<p>Let's connect and make data-driven impact together! ✨</p>
+<p>Let's connect! ✨</p>
 
   </td>
   <td>
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/Image.png" alt="Data Analytics" width="300">
+    <img src="https://github.com/vrajDiyora1/vrajDiyora1/blob/main/Image.jpg" alt="Data Analytics" width="1300">
   </td>
 </tr>
 </table>
 
-
-<!-- ## Hi there 👋, I'm Vraj Diyora
-
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username)
-
-### 👨‍💻 About Me:
-
-I'm currently pursuing my Master’s in Data Analytics Engineering at Northeastern University in Boston, MA. 📚  
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Analyst GIF" width="250"/>
-</p>
-
-
-I’m passionate about leveraging data science, machine learning, and analytics to solve real-world problems—especially in domains like finance, healthcare, technology, and automotive analytics. 🚀
-
-I thrive on turning complex datasets into strategic insights, and I'm always keen to collaborate on innovative projects or interesting research.
-
-Let's connect and make data-driven impact together! ✨
-
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Analyst GIF" width="250"/>
-</p>
--->
 
 ### 🛠️ Languages and Tools:
 
@@ -55,19 +32,3 @@ Let's connect and make data-driven impact together! ✨
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-
-
-<!--
-**vrajDiyora1/vrajDiyora1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
