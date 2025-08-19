@@ -5,7 +5,7 @@
 <h2>Hi there 👋, I'm Vraj Diyora</h2>
 
 <p><b>🧑‍💻 About Me:</b></p>
-<p>I'm currently pursuing my Master’s in Data Analytics Engineering at Northeastern University in Boston, MA. 🗺️</p>
+<p>I pursed my Master’s in Data Analytics Engineering at Northeastern University in Boston, MA. 🗺️</p>
 
 <p>I'm passionate about leveraging data science, machine learning, and analytics to solve real-world problems—especially in domains like technology and automotive analytics. 🚀</p>
 
