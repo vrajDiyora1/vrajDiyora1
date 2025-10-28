@@ -7,7 +7,7 @@
 <p><b>🧑‍💻 About Me:</b></p>
 <p>I purseded my Master’s in Data Analytics Engineering at Northeastern University in Boston, MA. 🗺️</p>
 
-<p>I'm passionate about leveraging data science, machine learning, and analytics to solve real-world problems—especially in domains like technology and automotive analytics. 🚀</p>
+<p>I'm passionate about solve problems with the help of sql, python and building dashboards with Tableau and Power BI, machine learning, and analytics especially in domains like technology and automotive analytics. 🚀</p>
 
 <p>I thrive on turning complex datasets into strategic insights, and I'm always keen to collaborate on innovative projects or interesting research.</p>
 
