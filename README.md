@@ -4,12 +4,12 @@
 
 <h2>Hi, I'm Vraj Diyora</h2>
 
-<p><b>🧑‍💻 About Me:</b></p>
+<p><b> About Me:</b></p>
 <p><b> Data Scientist and Data Analyst building ML models, analytics, and dashboards with Python, SQL, and Power BI. </b></p>
 
 <p>I thrive on turning complex datasets into strategic insights, and I'm always keen to collaborate on innovative projects or interesting research.</p>
 
-<p>Let's connect! ✨</p>
+<p>Let's connect! </p>
 <p>LinkedIn: https://www.linkedin.com/in/vraj-diyora/  </p>
 <p>Email: vrajkdiyora@gmail.com</p>
   </td>
@@ -20,7 +20,7 @@
 </table>
 
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
