@@ -11,7 +11,7 @@
 
 <p>Let's connect! </p>
 <p>LinkedIn: https://www.linkedin.com/in/vraj-diyora/  </p>
-<p>Email: vrajkdiyora@gmail.com</p>
+<p> Email: vrajkdiyora@gmail.com </p>
   </td>
   <td>
     <img src="https://github.com/vrajDiyora1/vrajDiyora1/blob/main/Image.jpg" alt="Data Analytics" width="1300">
