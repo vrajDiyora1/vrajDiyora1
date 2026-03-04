@@ -11,7 +11,7 @@
 
 <p>Let's connect! </p>
 <p>LinkedIn: https://www.linkedin.com/in/vraj-diyora/  </p>
-<p>Leetcode: [https://www.linkedin.com/in/vraj-diyora/](https://leetcode.com/u/VrajDiyora15/)  </p>
+<p>Leetcode: (https://leetcode.com/u/VrajDiyora15/)  </p>
 <p>Hackerrank(SQL): (https://www.hackerrank.com/profile/vrajdiyora2207)  </p>
 <p>Email: vrajkdiyora@gmail.com </p>
   </td>
